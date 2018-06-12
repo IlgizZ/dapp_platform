@@ -1,0 +1,30 @@
+{
+  "name": "dapp_platform",
+  "version": "1.0.0",
+  "description": "dapp platform smart contracts",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "^1.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IlgizZ/dapp_platform.git"
+  },
+  "keywords": [
+    "solidity",
+    "ethereum"
+  ],
+  "author": "Ilgiz Zamaleev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IlgizZ/dapp_platform/issues"
+  },
+  "homepage": "https://github.com/IlgizZ/dapp_platform#readme"
+}
